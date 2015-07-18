@@ -473,7 +473,7 @@
         "originalURL": "http://www.canadianliving.com/food/blueberry_oatmeal_squares.php"
     },
     {
-        "name": "World's Greatest Curried chicken salad",
+        "name": "Curried chicken salad",
         "ingredients": [
             {
                 "quantity": "3",
@@ -560,5 +560,52 @@
         ],
         "imageURL": "http://www.chatelaine.com/wp-content/uploads/2013/05/Curried-chicken-salad.jpg",
         "originalURL": "http://www.chatelaine.com/recipe/stovetop-cooking-method/curried-chicken-salad/"
+    },
+    {
+        "name": "Mexican chicken tacos",
+        "ingredients": [
+            {
+                "quantity": "4",
+                "name": "skinless, boneless chicken breasts",
+                "type": "Meat"
+            },
+            {
+                "quantity": "1 tbsp",
+                "name": "canola oil",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "2",
+                "name": "garlic cloves, minced",
+                "type": "Produce"
+            },
+            {
+                "quantity": "1 tsp",
+                "name": "dried oregano",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "1/2 tsp",
+                "name": "salt",
+                "type": "Condiments"
+            },
+            {
+                "quantity": "4",
+                "name": "soft corn or flour tortillas",
+                "type": "misc"
+            }
+        ],
+            "steps": [
+            "PREHEAT barbecue to medium.",
+            "COMBINE oil with garlic, oregano and salt. Rub all over chicken.",
+            "OIL grill. Barbecue chicken, lid closed, until springy when pressed, 6 to 8 min per side. Transfer chicken to a cutting board and shred with forks. Serve in tortillas."
+        ],
+        "timers": [
+            0,
+            0,
+            6
+        ],
+        "imageURL": "http://www.chatelaine.com/wp-content/uploads/2014/08/mexican-chicken-tacos.jpg",
+        "originalURL": "http://www.chatelaine.com/recipe/mexican-2/mexican-chicken-tacos-recipe/"
     }
 ]
